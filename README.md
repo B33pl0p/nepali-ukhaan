@@ -252,7 +252,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 खाइछाड कि लाइछाड, मरेपछि लम्पसार   |   	Khaayi chhad ki laayi chaad, mare pachhi lampasaar.
 खाई न पाई छालाको टोपी लाई    |   	Khaayi na paayi chaalaa ko topi laayi.
 खाई न पाई दौरामाथि टाई    |   	Khaayi na paayi, dauraa maathi tai.
-खाउँ कर्कली, पेट फर्कली, नखाउँ कर्कली, सासू झर्कली    |   	Khau karkali pet farkali, nakhau karkali saasu jharkali.
+खाउँ कर्कली, पेट फर्कली, नखाउँ कर्कली, सासू झर्कली    |   	Khau karkali pet farkali, nakhau karkali saasu jharkali. | Aafu sanga Kunai choice naraheko awastha.
 खाए खा नखाए घिच    |   	Khaaye khaa nakhaaye ghich.
 खान जाने औषधि, खान नजाने विष    |   	Khana jane ausadhi, khana najane bish.
 खाने पिउने रामे, चोट पाउने चामे    |   	Khaane piune Raame, chot paaune Chaame.
@@ -262,7 +262,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 खायो खुदो मुख उँदो    |   	Khayo khudo mukh udo.
 खिर ख्वाएर हिलोले चुठाउँने    |   	Khir khuwayera hilo le chuthaune.
 खुट्टा भए संसार हिडिन्छ    |   	Khutta bhaye sansar hidinchha.
-खुट्‍टा भए जुत्ता हजार    |   	Khutta vaye jutta hajar.
+खुट्‍टा भए जुत्ता हजार    |   	Khutta vaye jutta hajar. | Choice dherai hunxan.
 खुर्सानी बिना भतेर अड्किन्न    |   	Khursani bina bhater adkinna.
 खुस्किन लागेको हाकिमलाई पिउनले पनि लखेट्छ    |   	Khuskina laageko haakim lai piun le pani lakhetchha.
 खेताला पल्काउनु, पाहुना तर्साउनु    |   	Khetala palkaunu, pahuna tarsaunu.
@@ -446,8 +446,8 @@ So, this is a small effort for promoting the Nepali language and literature amon
 ढाँटको निम्तो खाई पत्याउनु    |   	Daat ko nimto khaayi patyaunu.
 ढिँडो र फाँडो एउटै हो    |   	Dhido ra faado eutai ho.
 ढिकीले स्वर्गमा पनि धानै कुट्छ    |   	Dhiki le swarga maa pani dhaanai kutchha.
-ढिलै होस् तर छोरो होस्    |   	Dhilai hos tara choro hos.
-ढुंगा खोज्दा देउता मिल्नु    |   	Dunga khojda deuta milnu.
+ढिलै होस् तर छोरो होस्    |   	Dhilai hos tara choro hos. | Dhilo vayepani ramro kura hos
+ढुंगा खोज्दा देउता मिल्नु    |   	Dunga khojda deuta milnu. 
 ढुंगाको भर माटो, माटोको भर ढुंगा    |   	Dhunga ko bhar maato, maato ko bhar dhunga.
 ढुटे कि छोरी कनिका खानेमा परी, कनिका देखेरै उफ्रेर मरी    |   	Dhute ki chhori kanikaa khaane maa pari, kanikaa dekherai ufrera mari.
 तँ आँट म पुर्‍याउँछु    |   	Ta aat ma puryauchhu.
@@ -527,7 +527,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 नक्कल गर्न पनि अक्कल चाहिन्छ    |   	Nakkal garna pani akkal chaahinchha
 नखाउँ भने दिन भरी को सिकार, खाउँ भने कान्छा बाउ को अनुहार    |   	Nakhau bhane din vari ko sikar, khau bhane kanchha bau ko anuhaar 
 नङले चिमोटे हुनेलाई बन्चरो किन लगाउने    |   	Nang le chimote hune lai bancharo kina lagaune?
-नजाने गाउँको बाटो नसोध्नु    |   	Najaane gau ko bato nasodhnu.
+नजाने गाउँको बाटो नसोध्नु    |   	Najaane gau ko bato nasodhnu. | Na chahine kaam na garnu
 नजाने शहरको GPS नलगाउनु    |   	Najaane sahar ko GPS nalagaunu.
 नजिकको तीर्थ हेला    |   	Najik ko tirtha hela.
 नजित्ने लडाइँ नलडेकै राम्रो    |   	Najitne ladai naladekai ramro.
@@ -622,12 +622,12 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बाघका सय गोठ    |   	Baagh kaa saya goth.
 बाघको छालामा स्यालको रजाईं    |   	Baagh ko chhaalaa maa syaal ko rajai.
 बाघको छोरा स्याल    |   	Baag ko chooraa syaal
-बाघको न्यास्रो लागे बिरालोको अनुहार हेर्नु    |   	Baagh ko nyaasro laage biralo ko anuhaar hernu.
+बाघको न्यास्रो लागे बिरालोको अनुहार हेर्नु    |   	Baagh ko nyaasro laage biralo ko anuhaar hernu. | Alternative le pani chitta bujauna sakinxa
 बाघको बाटो बाघ हिड्छ, सर्पको बाटो सर्प    |   	Bagh ko baato bagh hidchha, sarpa ko baato sarpa.
 बाघको मुख खाए पनि रातै, नखाए पनि रातै    |   	Baagh ko much khaaye pani raatai, nakhaaye pani raatai.
 बाघले नचिनेको वन र वनले नचिनेको बाघ हुँदैन    |   	Bagh le nachineko ban ra ban le nachineko bagh hudaina.
 बाच्छो खाने बाघले पाडोलाई नि बाँकी राख्दैन    |   	Baachchho khaane baagh le paado lai ni baaki raakhdaina.
-बाटो न घाटो, दगुर्छ लाटो    |   	Bato na ghato, dagurchha laato.
+बाटो न घाटो, दगुर्छ लाटो    |   	Bato na ghato, dagurchha laato. | Kura nabuji action linu
 बादरको पुच्छर टाई न इँजार    |   	Badar ko puchhar tai na ijaar
 बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina.
 बाबू भन्दा छोरो जान्ने, नाति पेटै बाट मट्याङ्ग्रा हान्ने    |   	Baabu bhanda chhoro janne, naati petai baata matyangra hanne.
@@ -830,7 +830,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 सम्धीको निहुँले मलाई पनि घिउले    |   	Samdhi ko nihu le malai pani ghiu le.
 सयको लाठी, एकको बोझ    |   	Saya ko lathi, ek ko bojh.
 सरकारी काम कहिले जाला घाम    |   	Sarkaari kaam kahile jaalaa ghaam.
-सर्प पनि मरोस्, लट्‍ठी पनि नभाँचियोस्    |   	Sarpa pani maros, latthi pani nabhaachiyos.
+सर्प पनि मरोस्, लट्‍ठी पनि नभाँचियोस्    |   	Sarpa pani maros, latthi pani nabhaachiyos. 
 सर्पको खुट्‍टा सर्पले देख्‍छ    |   	Sarpa ko khuttaa sarpa le dekhchha.
 ससुरालीको धनमा नामर्दको रजाईं    |   	Sasurali ko dhan maa naamarda ko rajai.
 सस्तो बेसारले पखला लाग्छ    |   	Sasto besaar le pakhalaa laagchha.
@@ -847,7 +847,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 सिपाहिको काम छैन, जर्नेलको मान    |   	Sipaahi ko kaam chhaina jarnel ko maan.
 सिमीका झालमा काउसाको कोसो    |   	Simi ka jhaal maa kausa ko kosho.
 सियो बनेर पस्ने, फालि बनेर निस्कने    |   	Siyo banera pasne, faali banera niskane.
-सियो हराएको दमाइँ जस्तो    |   	Siyo haraayeko damai jasto
+सियो हराएको दमाइँ जस्तो    |   	Siyo haraayeko damai jasto. | aafulai important hune kura haarako manxe
 सीतैंमा पाये भट्टि रीत्तै    |   	Sittai maa paaye bhatti rittai.
 सुख पाए ससुराली जानू, दु:ख पाए मीतकहाँ जानू    |   	Sukhan paaye sasurali jaanu, dukha paaye mit kahaa jaanu.
 सुगुरलाई स्वर्ग जान्छस् भन्दा त्यहाँ गु खान पाईन्छ भनी उल्टो सोध्छ    |   	Sungur lai swarga jaanchhas bhandaa tyaha gu khaana paayinchha bhanera ulto sodhchha.
@@ -855,7 +855,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 सुनलाई खोल लाउनु पर्दैन    |   	Sun lai khol launu pardaina.
 सुनारको सय चोट, लोहारको एक चोट    |   	Sunaar ko saya chot, lohaar ko ek chot.
 सूर्य अस्त चन्द्र मस्त   |   	Surya asta chandra masta.
-सूर्यको अगाडि बत्ती    |   	Surya ko agadi batti.
+सूर्यको अगाडि बत्ती    |   	Surya ko agadi batti. | Compare garnai namilne awastha
 सोर्‍है साला सत्र    |   	Sohrai saalaa satra.
 सौताको रिसले श्रीमानको काखमा पिसाब फेर्नु    |   	Sauta ko rish le shriman ko kaakh maa pisaab fernu.
 स्याल कराउनु कुखरा हराउनु    |   	Syaal karaunu kukhura haraunu.
@@ -889,7 +889,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 हात्ती चढिसकेको मान्छेले गधा चढ्न के रुचाउला    |   	Hatti chadi sakeko maanche gadhaa chadna ke ruchaula 
 हात्ती छिर्‍यो पुच्छर अड्क्यो    |   	Haatti chhiryo, puchhar adkyo.
 हात्ती लम्कनु घोडा चम्कनु    |   	Hatti lamkanu, ghoda chamkanu.
-हात्तीको मुखमा जीरा    |   	Hatti ko mukh maa jira.
+हात्तीको मुखमा जीरा    |   	Hatti ko mukh maa jira. Chaine Vandaa Dherai Kamti paunu.
 हाथ को माछा छोडेर पोखरी को माछा खोज्ने    |   	Haat ko machha chhodera pokhari ko machha khojne.
 हारेको कुकुरले सँधैं दाँत देखाउँछ    |   	Hareko kukur le sadhai dant dekhauchha.
 हार्ने गोरुको छेर्ने दाउ    |   	Harne goru ko chherne dau.
